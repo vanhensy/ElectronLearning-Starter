@@ -1,0 +1,21 @@
+#main_container {
+	height: 100vh;
+}
+#login_block {
+	height: 100%;
+}
+.logo {
+	max-height: 150px; 
+}
+.headline {
+	margin: 20px 0;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 22px;
+	color: #2c3e50;
+}
+body {
+	background: url('../images/pattern.png');
+	background-position: center bottom;
+	background-size: 500px;
+	background-repeat: repeat-x;
+}
